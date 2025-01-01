@@ -581,26 +581,26 @@ if (settingsREAD.autoread2) await this.readMessages([m.key])
 
 
 
-	    
-  if (
+if (
   (process.env.AutoReaction && process.env.AutoReaction.toLowerCase() === 'true') || 
   (global.db.data.settings[this.user.jid]?.autoreacts)
 ) {
   if (
     (m.text && m.text.match(/(prince|a|b|c|d|e|f|g|h|i|j|k|l|m|n|o|p|q|r|s|t|u|v|w|x|y|z)/gi)) || 
-    (['imageMessage', 'videoMessage', 'audioMessage', 'documentMessage', 'stickerMessage'].includes(m.mtype))
+    (['imageMessage', 'videoMessage', 'audioMessage', 'documentMessage', 'stickerMessage'].includes(m.mtype)) || 
+    (m.isForwarded)
   ) {
     this.sendMessage(m.chat, {
       react: {
         text: (m.sender === '923092668108@s.whatsapp.net') 
           ? "🇵🇰" 
           : pickRandom([
-              "☺️", "😻", "🥰", "😱", "🤗", "🤫", "🤭", "✨", "💘", "💗", "♥️", "👑", 
-              "💞", "💖", "💓", "💕", "🙃", "🍓", "🍎", "🎈", "🪄", "❤️", "🧡", "💛", 
-              "💚", "💙", "💜", "🖤", "🤍", "💟", "🌝", "😎", "😍", "🕊️", "🥀", "🦋", 
-              "🥀", "❤‍🩹", "😒", "🌸", "🌈", "❣️", "✨", "🙌", "👻", "🐤", "🪽", 
-              "❤️‍🔥", "💫", "❤️‍🩹", "🧸", "🎀", "🎉", "🩷", "🖤", "🤍", "🤎", "💛", "💚", 
-              "🩵", "💙", "💜", "💟", "💓", "🩶", "🫣", "🇵🇰", "🥺"
+              "☺️", "😻", "🥰", "❤️", "🤗", "🤫", "🤭", "✨", "🙃", "💗", "♥️", "👑", 
+              "💞", "💖", "💓", "💕", "🥺", "🍓", "🍎", "🎈", "🖤", "❤️", "🧡", "💛", 
+              "💚", "💙", "💜", "🖤", "🤍", "💟", "😌", "😎", "😍", "🕊️", "🥀", "🦋", 
+              "🎁", "❤‍🩹", "😒", "🌸", "🌈", "❣️", "✨", "🙌", "👻", "😘", "🪽", 
+              "😩", "💫", "☀️", "🧸", "🎀", "🫣", "🩷", "🖤", "🤍", "🤎", "💛", "💚", 
+              "🩵", "💙", "💜", "💟", "💓", "🩶", "🥺", "🇵🇰", "🥺"
             ]),
         key: m.key
       }
@@ -611,8 +611,6 @@ if (settingsREAD.autoread2) await this.readMessages([m.key])
 function pickRandom(list) {
   return list[Math.floor(Math.random() * list.length)];
 }
-
-
 
 
 	    
