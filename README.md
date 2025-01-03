@@ -50,37 +50,33 @@
    <br>
     <br>
 </div>
-<br>
+   
+## 🟣 𝙎𝙃𝙊𝙍𝙏 𝙎𝙀𝙎𝙎𝙄𝙊𝙉
 
-
- 
-    
-## 🟣 SHORT SESSION
-
-### Pair Code 1️⃣
+### 𝙋𝙖𝙞𝙧 𝙘𝙤𝙙𝙚 1️⃣
 [![Session](https://img.shields.io/badge/𝗦𝗘𝗦𝗦𝗜𝗢𝗡-purple?style=for-the-badge&logo=heroku&logoColor=white)](https://princesession-653c5b876049.herokuapp.com)
 
 
-### Pair Code 2️⃣
+### 𝙋𝙖𝙞𝙧 𝙘𝙤𝙙𝙚 2️⃣
 [![Session](https://img.shields.io/badge/𝗦𝗘𝗦𝗦𝗜𝗢𝗡-red?style=for-the-badge&logo=heroku&logoColor=white)](https://sessionp-ffd02587aaea.herokuapp.com)
 
 
-### Pair Code 3️⃣
+### 𝙋𝙖𝙞𝙧 𝙘𝙤𝙙𝙚 3️⃣
 [![Session](https://img.shields.io/badge/𝗦𝗘𝗦𝗦𝗜𝗢𝗡-blue?style=for-the-badge&logo=heroku&logoColor=yellow)](https://dead-christel-secktor-f9b56895.koyeb.app/)
 
-
+<br>
        
  ### 🔵 𝙇𝙊𝙉𝙂 𝙎𝙀𝙎𝙎𝙄𝙊𝙉 𝙁𝙊𝙍 𝙋𝘼𝙉𝙀𝙇𝙎
    
 </div>
    
 <div align="left">
-    <h3 style="color: #34a853;">𝙋𝘼𝙄𝙍 𝘾𝙊𝘿𝙀1️⃣</h3>
+    <h3 style="color: #34a853;">𝙋𝙖𝙞𝙧 𝙘𝙤𝙙𝙚1️⃣</h3>
     <a href="https://prince-new-base64-pair.onrender.com">
         <img height="30" title="Session" src="https://img.shields.io/badge/𝗦𝗘𝗦𝗦𝗜𝗢𝗡-skyblue?style=for-the-badge&logo=render">
     </a>
     <br>
-    <h3 style="color: #34a853;">𝙋𝘼𝙄𝙍 𝙌𝙍 𝘾𝙊𝘿𝙀2️⃣</h3>
+    <h3 style="color: #34a853;">𝙋𝙖𝙞𝙧 𝙘𝙤𝙙𝙚2️⃣</h3>
     <a href="https://prince-session-base64.onrender.com">
         <img height="30" title="Session" src="https://img.shields.io/badge/𝗦𝗘𝗦𝗦𝗜𝗢𝗡-green?style=for-the-badge&logo=render">
     </a>
@@ -131,35 +127,35 @@
 
 ---
 
-## 🔥 𝙋𝙍𝙄𝙉𝘾𝙀 𝙈𝘿 𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎
+# 🔥 𝙋𝙍𝙄𝙉𝘾𝙀 𝙈𝘿 𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎
 
-## 🔹 𝙌𝙐𝙍𝘼𝙉 𝙈𝙀𝙉𝙐
+### 🔹 𝙌𝙐𝙍𝘼𝙉 𝙈𝙀𝙉𝙐
 
-## 🔹 𝘼𝙇𝙇 𝘿𝙊𝙒𝙉𝙇𝙊𝘼𝘿𝙀𝙍 𝘾𝙈𝘿𝙎
+### 🔹 𝘼𝙇𝙇 𝘿𝙊𝙒𝙉𝙇𝙊𝘼𝘿𝙀𝙍 𝘾𝙈𝘿𝙎
 
-## 🔹 𝘼𝙇𝙇 𝘼𝙄 𝘾𝙊𝙈𝙈𝘼𝙉𝘿𝙎
+### 🔹 𝘼𝙇𝙇 𝘼𝙄 𝘾𝙊𝙈𝙈𝘼𝙉𝘿𝙎
 
-## 🔹 𝙎𝙏𝙐𝘿𝙔 𝙈𝙀𝙉𝙐
+### 🔹 𝙎𝙏𝙐𝘿𝙔 𝙈𝙀𝙉𝙐
 
-## 🔹 𝘼𝙐𝙏𝙊𝙍𝙀𝘼𝘾𝙏𝙄𝙊𝙉
+### 🔹 𝘼𝙐𝙏𝙊𝙍𝙀𝘼𝘾𝙏𝙄𝙊𝙉
 
-## 🔹 𝘼𝙐𝙏𝙊 𝙎𝙏𝘼𝙏𝙐𝙎𝙑𝙄𝙀𝙒 & 𝙇𝙄𝙆𝙀𝙎
+### 🔹 𝘼𝙐𝙏𝙊 𝙎𝙏𝘼𝙏𝙐𝙎𝙑𝙄𝙀𝙒 & 𝙇𝙄𝙆𝙀𝙎
 
-## 🔹 𝘼𝙐𝙏𝙊 𝙎𝙏𝘼𝙏𝙐𝙎 𝙎𝘼𝙑𝙀
+### 🔹 𝘼𝙐𝙏𝙊 𝙎𝙏𝘼𝙏𝙐𝙎 𝙎𝘼𝙑𝙀
 
-## 🔹 𝘼𝙐𝙏𝙊 𝙎𝙏𝘼𝙏𝙐𝙎 𝙍𝙀𝙋𝙇𝙔
+### 🔹 𝘼𝙐𝙏𝙊 𝙎𝙏𝘼𝙏𝙐𝙎 𝙍𝙀𝙋𝙇𝙔
 
-## 🔹 𝘼𝙐𝙏𝙊𝙍𝙀𝘼𝘿
+### 🔹 𝘼𝙐𝙏𝙊𝙍𝙀𝘼𝘿
 
-## 🔹 𝘼𝙉𝙏𝙄𝘿𝙀𝙇𝙀𝙏𝙀
+### 🔹 𝘼𝙉𝙏𝙄𝘿𝙀𝙇𝙀𝙏𝙀
 
-## 🔹 𝘼𝙉𝙏𝙄𝙇𝙄𝙉𝙆
+### 🔹 𝘼𝙉𝙏𝙄𝙇𝙄𝙉𝙆
 
-## 🔹 𝘼𝙉𝙏𝙄𝙎𝙋𝘼𝙈
+### 🔹 𝘼𝙉𝙏𝙄𝙎𝙋𝘼𝙈
 
-## 🔹 𝘼𝙉𝙏𝙄 𝙃𝙀𝙍𝙊𝙆𝙐 𝘽𝘼𝙉
+### 🔹 𝘼𝙉𝙏𝙄 𝙃𝙀𝙍𝙊𝙆𝙐 𝘽𝘼𝙉
 
-## 🔹 𝘼𝙇𝙇 𝙊𝙁 𝙔𝙊𝙐𝙍 𝙉𝙀𝙀𝘿𝙎 𝙄𝙉 𝙊𝙉𝙀 𝘽𝙊𝙏
+### 🔹 𝘼𝙇𝙇 𝙊𝙁 𝙔𝙊𝙐𝙍 𝙉𝙀𝙀𝘿𝙎 𝙄𝙉 𝙊𝙉𝙀 𝘽𝙊𝙏
 
 ---
     
@@ -167,7 +163,7 @@
 
 <div align="center">
     
-## 🟢 𝙎𝙐𝙋𝙋𝙊𝙍𝙏 𝙂𝙍𝙊𝙐𝙋 𝙇𝙄𝙉𝙆 🟢
+# 🟢 𝙎𝙐𝙋𝙋𝙊𝙍𝙏 𝙂𝙍𝙊𝙐𝙋 𝙇𝙄𝙉𝙆 🟢
 
 </div>
 
@@ -196,7 +192,7 @@
 
 ---
 
-### 💠 [𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘 𝗟𝗔𝗡𝗚𝗨𝗔𝗚𝗘𝗦 𝗙𝗢𝗥 𝗣𝗥𝗜𝗡𝗖𝗘 𝗕𝗢𝗧]
+# 💠 [𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘 𝗟𝗔𝗡𝗚𝗨𝗔𝗚𝗘𝗦 𝗙𝗢𝗥 𝗣𝗥𝗜𝗡𝗖𝗘 𝗕𝗢𝗧]
 
 ### 🪄 𝘼𝙍𝘼𝘽𝙄𝘾 = 𝘼𝙍
 
