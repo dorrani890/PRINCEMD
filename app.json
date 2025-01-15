@@ -24,7 +24,7 @@
     "OWNER_NUMBER": {
       "description": "put your Number and name for Owner",
       "required": true,
-      "value": "9230926680000,❣️PRINCE THE DEVELOPER"
+      "value": "923006838210,❣️FAISAL"
     },
     "MODE": {
       "description": "choose bot mode public or private",
@@ -34,12 +34,12 @@
     "PREFIX": {
       "description": "put any one symbol here leave it Blank if you want to use multiple prefix",
       "required": false,
-      "value": "" 
+      "value": "." 
     },
     "antidelete": {
       "description": "bot will forward deleted messages if you make it true",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "DATABASE_URL": {
       "description": "put mongodb or postgres or princedb database url for bots better performance",
@@ -54,7 +54,7 @@
     "AutoReaction": {
       "description": "make it true to react on chats",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "VAR_APP": {
       "description": "put same app name you entered above",
@@ -64,7 +64,7 @@
     "VAR_KEY": {
       "description": "put heroku key click on accounts scroll down copy that key past here",
       "required": true,
-      "value": ""
+      "value": "HRKU-994ee196-c6db-4efc-9445-28815df69a50"
     },
     "STATUSVIEW": {
       "description": "make it true to auto view status and likes",
@@ -74,12 +74,12 @@
     "STATUS_MSG": {
       "description": "Status reply msg",
       "required": false,
-      "value": "Your Status has been seen by Prince bot"
+      "value": "> _𝐃𝐔𝐑𝐑𝐀𝐍𝐈-𝐌𝐃_"
     },
     "REJECTSCALLS": {
       "description": "reject calls",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
     "ANTIFAKE_USERS": {
       "description": "Add numbers to a variable. The bot will remove users from the group for these numbers. If a number isn’t in the variable, the bot will not take any action. To target all numbers, use this format: 1,2,3,4,5,6,7,8,9. ",
@@ -99,7 +99,7 @@
     "DL_MSG": {
       "description": "Video downloader caption",
       "required": true,
-      "value": "_*📥DOWNLOADED SUCCESSFULLY✅*_"
+      "value": "> _𝐃𝐔𝐑𝐑𝐀𝐍𝐈-𝐌𝐃_"
     } 
   },
   "buildpacks": [
