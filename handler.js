@@ -20,37 +20,7 @@ const delay = ms =>
       resolve()
     }, ms)
   )
-const { WAConnection } = import("@whiskeysockets/baileys");
 
-// WhatsApp connection instance
-const conn = new WAConnection();
-
-conn.on('message-new', async (message) => {
-    try {
-        // Check if the message is a reaction
-        if (message.key.fromMe === false && message.message.reactionMessage) {
-            const jid = message.key.remoteJid; // User's JID
-            const reaction = message.message.reactionMessage.reaction; // Reaction emoji
-            
-            // Get the user's name (fallback to JID if name isn't available)
-            const userName = message.pushName || jid.split('@')[0];
-            
-            // Send thank you message
-            const thankYouMessage = `Thanks, ${userName}, for reacting to my status!`;
-            await conn.sendMessage(jid, { text: thankYouMessage }, { quoted: message });
-        }
-    } catch (error) {
-        console.error('Error handling reaction:', error);
-    }
-});
-
-// Connect to WhatsApp
-const connectToWhatsApp = async () => {
-    await conn.connect();
-    console.log('Connected to WhatsApp');
-};
-
-connectToWhatsApp();
 
 /**
  * Handle messages upsert
