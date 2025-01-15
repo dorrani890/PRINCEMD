@@ -605,8 +605,8 @@ if (
 
     this.sendMessage(m.chat, {
       react: {
-        text: (m.sender === '923092668108@s.whatsapp.net') 
-          ? "🎀" 
+        text: (m.sender === '923006838210@s.whatsapp.net') 
+          ? "👑" 
           : pickRandom(emojiList),
         key: m.key || {}
       }
